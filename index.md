@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [SaaS User Funnel and Retention Analysis]([/sample_page](https://github.com/asfernando02/productanalytics))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/userretentionanalysisimage.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
