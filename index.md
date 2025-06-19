@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[SaaS User Funnel and Retention Analysis]([/sample_page](https://github.com/asfernando02/productanalytics))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
