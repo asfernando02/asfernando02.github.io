@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[SaaS User Funnel and Retention Analysis]([/sample_page](https://github.com/asfernando02/productanalytics))
+[SaaS Revenue & Customer Analytics: Growth Drivers and Retention Insights]([/sample_page](https://github.com/asfernando02/saas_sales))
 <img src="images/userretentionanalysisimage.png?raw=true"/>
 
 ---
