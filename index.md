@@ -5,7 +5,7 @@
 ### Data Science
 
 [SaaS Revenue & Customer Analytics: Growth Drivers and Retention Insights]([/sample_page](https://github.com/asfernando02/saas_sales))
-<img src="images/userretentionanalysisimage.png?raw=true"/>
+<img src="images/saas_sales_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
