@@ -9,7 +9,7 @@
 
 ---
 [Customer Retention Analysis and Churn Prediction](https://github.com/asfernando02/customer-churn-prediction)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/churn_prediction_thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
