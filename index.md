@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science
+### Data Analysis Projects
 
 [SaaS Revenue & Customer Analytics: Growth Drivers and Retention Insights](https://github.com/asfernando02/saas_sales)
 <img src="images/saas_sales_thumbnail.png?raw=true"/>
