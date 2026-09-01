@@ -2,7 +2,12 @@
 
 ---
 
-### Data Analysis Projects
+### Data Analysis 
+
+[Inside Airbnb: Revenue, Ratings & Momentum Across US Markets](https://github.com/asfernando02/airbnb_market_analysis)
+<img src="images/airbnb_dashboard_preview.png?raw=true"/>
+
+---
 
 [SaaS Revenue & Customer Analytics: Growth Drivers and Retention Insights](https://github.com/asfernando02/saas_sales)
 <img src="images/saas_sales_thumbnail.png?raw=true"/>
@@ -12,10 +17,7 @@
 <img src="images/churn_prediction_thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
